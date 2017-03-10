@@ -1,6 +1,6 @@
 # About
 
-sample hdfs connection script with read and write
+sample hdfs connection script with read and write, using hadoop's hdfs.h lib
 
 # Prerequisites 
 
